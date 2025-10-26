@@ -37,8 +37,8 @@ PIN_MAPS = {
     "dc_i_pin": [0, 22, 1], 
     "dc_ii_pin": [0, 23, 1], 
     "sl_i2c": 1,
-    "sl_sda": 26,
-    "sl_scl": 25,
+    "sl_sda": 33,
+    "sl_scl": 32,
     },
     
     
